@@ -1,8 +1,9 @@
-# Planka
+
+# Planka (Fork)
 
 ![David (path)](https://img.shields.io/github/package-json/v/plankanban/planka) ![Docker Pulls](https://img.shields.io/docker/pulls/meltyshev/planka) ![GitHub](https://img.shields.io/github/license/plankanban/planka)
 
-A Trello-like kanban board built with React and Redux.
+A Trello-like kanban board built with React and Redux with integrated SSO.
 
 ![](https://raw.githubusercontent.com/plankanban/planka/master/demo.gif)
 
